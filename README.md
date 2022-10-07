@@ -9,4 +9,6 @@ KSLV- Disaster
 - :tada: *Since 2004*:tm:
 - :brazil: Ponta Grossa PR, Brasil
 - :mortar_board: Cursando Técnico em Informática
-- :postbox: andre.fogaca.silva@escola.pr.gov.br
+<div>
+<a href = "mailto:andre.fogaca.silva@escola.pr.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
