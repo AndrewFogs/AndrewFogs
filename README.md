@@ -6,7 +6,7 @@ KSLV- Disaster
 
 ⇆       ◁ㅤㅤ❚❚ㅤㅤ▷       ↻
 - :moyai:🍷 Hi, I’m André
-- :tada: *Since 2004*
+- :tada: *Since 2004*:tm:
 - :brazil: Ponta Grossa PR, Brasil
 - :mortar_board: Cursando Técnico em Informática
 - :postbox: andre.fogaca.silva@escola.pr.gov.br
