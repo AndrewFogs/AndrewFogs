@@ -5,4 +5,6 @@ KSLV- Disaster
 0:10 ━●────────────  1:24
 
 ⇆       ◁ㅤㅤ❚❚ㅤㅤ▷       ↻
-- 🍷 Hi, I’m André
+- :moyai:🍷 Hi, I’m André
+- :brazil: Ponta Grossa PR, Brasil
+- :mortar_board: Cursando Técnico em Informática
